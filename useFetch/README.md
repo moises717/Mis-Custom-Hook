@@ -1,9 +1,9 @@
-# Ejempo 
+# Ejemplo 
 
 
 ```
 
-const {data, loading,  error} = useFetc
+const {data, loading,  error} = useFetch();
 
 
 ```
